@@ -1,5 +1,5 @@
 # Basic Site Settings
-avatar           : "/images/Profile_Picture.jpg"
+
 locale                   : "en-US"
 site_theme               : "default" 
 title                    : "Badrudeen Yusuf Akinkunmi"
@@ -12,7 +12,7 @@ repository               : "yusbad09/yusbad09.github.io"
 
 # Site Author (sidebar info)
 author:
-  avatar           : "/images/Profile_Picture.jpg"
+  avatar           : "images/Profile_Picture.jpg"
   name             : "Badrudeen Yusuf Akinkunmi"
   pronouns         : "He/Him"  
   bio              : "Cybersecurity Researcher | SOC Analyst | AI-driven Security for Autonomous Systems"
@@ -29,7 +29,6 @@ author:
 
 # Publication Category 
 publication_category:
-avatar           : "/images/Profile_Picture.jpg"
 #   books:
 #     title: 'Books'
 #   manuscripts:
