@@ -10,7 +10,6 @@ url                      : https://yusbad09.github.io
 baseurl                  : "" 
 repository               : "yusbad09/yusbad09.github.io"
 
-# Site Author (sidebar info)
 author:
   avatar     : "images/Profile_Picture.jpg"
   name       : "Badrudeen Yusuf Akinkunmi"
@@ -21,6 +20,10 @@ author:
   email      : "badrudeenyusuf55@gmail.com" 
   linkedin   : "badrudeen-yusuf-akinkunmi-6692b819b"
   twitter    : "yusbad09"
+
+  # Custom CV download link
+  cv_link    : "/files/BADRUDEEN YUSUF AKINKUNMI IDAN ACADEMIC CV.pdf"
+
 
   # Repositories and software development
   github           : "https://github.com/Yusbad09"
