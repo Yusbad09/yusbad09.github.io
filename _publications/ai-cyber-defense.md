@@ -6,7 +6,7 @@ excerpt: "A literature-based study and conceptual framework on AI/ML-based appro
 date: 2025-02-10
 venue: "Awaiting Publication"
 paperurl: ""
-citation: "B. Y. Akinkunmi, 'AI and Machine Learning-Driven Cyber Defense for Autonomous Vehicles,' Awaiting Publication, 2025."
+citation: "Y. A. Badrudeen, A. A. Tunde'AI and Machine Learning-Driven Cyber Defense for Autonomous Vehicles,' Awaiting Publication, 2025."
 ---
 
 This review explores **AI and ML-driven cybersecurity models** for autonomous vehicles,  
