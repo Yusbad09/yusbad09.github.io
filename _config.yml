@@ -1,4 +1,5 @@
 # Basic Site Settings
+avatar           : "images/Profile_Picture.jpg"
 locale                   : "en-US"
 site_theme               : "default" 
 title                    : "Badrudeen Yusuf Akinkunmi"
@@ -23,17 +24,17 @@ author:
   github           : "yusbad09"
 
   # Social media
-  linkedin         : "badrudeen-yusuf"
-  twitter          : ""   
+  linkedin         : "https://www.linkedin.com/in/badrudeen-yusuf-akinkunmi-6692b819b/"
+  twitter          : "https://x.com/yusbad09"   
 
 # Publication Category 
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  
@@ -66,17 +67,17 @@ include:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 defaults:
