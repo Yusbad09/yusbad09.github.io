@@ -1,9 +1,8 @@
 ---
-layout: home
+layout: page
 title: "Welcome"
 author_profile: true
 ---
-Enable sidebar for homepage with author profile
 
 # Badrudeen Yusuf Akinkunmi
 
