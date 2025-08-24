@@ -12,13 +12,15 @@ repository               : "yusbad09/yusbad09.github.io"
 
 # Site Author (sidebar info)
 author:
-  avatar           : "images/Profile_Picture.jpg"
-  name             : "Badrudeen Yusuf Akinkunmi"
-  pronouns         : "He/Him"  
-  bio              : "Cybersecurity Researcher | SOC Analyst | AI-driven Security for Autonomous Systems"
-  location         : "Nigeria"
-  employer         : "Huawei Technologies / Independent Researcher"
-  email            : "badrudeenyusuf55@gmail.com" 
+  avatar     : "images/Profile_Picture.jpg"
+  name       : "Badrudeen Yusuf Akinkunmi"
+  pronouns   : "He/Him"  
+  bio        : "Cybersecurity Researcher | SOC Analyst | AI-driven Security for Autonomous Systems"
+  location   : "Nigeria"
+  employer   : "Huawei Technologies / Independent Researcher"
+  email      : "badrudeenyusuf55@gmail.com" 
+  linkedin   : "badrudeen-yusuf-akinkunmi-6692b819b"
+  twitter    : "yusbad09"
 
   # Repositories and software development
   github           : "https://github.com/Yusbad09"
