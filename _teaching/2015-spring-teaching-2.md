@@ -1,20 +1,20 @@
 ---
-title: "SOC & Cloud Security Training"
+title: "Teaching experience 2"
 collection: teaching
-type: "Training"
-permalink: /teaching/2023-huawei-soc-training
-venue: "Huawei Technologies Nigeria"
-date: 2023-08-01
-location: "Lagos, Nigeria"
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-I facilitated **SOC and Cloud Security training** sessions at Huawei Technologies, 
-covering:
+This is a description of a teaching experience. You can use markdown like any other post.
 
-- Security Operations workflow & SIEM tools  
-- Cloud infrastructure hardening  
-- Incident detection & response strategies  
-- Threat intelligence integration  
+Heading 1
+======
 
-This program trained junior analysts and engineers to adopt best practices in cloud 
-security and SOC operations.
+Heading 2
+======
+
+Heading 3
+======
