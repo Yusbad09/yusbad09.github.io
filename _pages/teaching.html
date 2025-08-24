@@ -7,7 +7,9 @@ author_profile: true
 
 Here are some of my teaching and mentoring experiences:
 
-{% include base_path %}
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
+  <p><strong>{{ post.date | date: "%Y" }}</strong></p>
+  {{ post.content }}
 {% endfor %}
+
