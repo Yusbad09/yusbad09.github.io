@@ -1,3 +1,10 @@
+{% if site.author.cv_link %}
+  <p>
+    <a href="{{ site.author.cv_link }}" class="btn btn--primary" target="_blank">📄 Download CV</a>
+  </p>
+{% endif %}
+
+
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
