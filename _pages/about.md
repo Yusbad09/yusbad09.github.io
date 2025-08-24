@@ -2,6 +2,13 @@
 permalink: /about/
 title: "About Me"
 ---
+<img src="images/Profile_Picture.jpg" alt="Badrudeen Yusuf Akinkunmi" width="200" style="border-radius: 50%; margin-bottom: 20px;">
+
+Hi, I’m **Badrudeen Yusuf Akinkunmi** 👋  
+I’m a **Cybersecurity Researcher and SOC Analyst** with a focus on **AI-driven security for autonomous systems, IoT, and cloud infrastructures**.  
+My research interests include anomaly detection, software supply chain security, and building real-time defenses for critical systems.  
+
+
 
 # Badrudeen Yusuf Akinkunmi
 
