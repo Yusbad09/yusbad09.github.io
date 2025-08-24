@@ -32,5 +32,5 @@ I am a **Cybersecurity Researcher** and **SOC Analyst** with expertise in **AI-d
 
 ---
 
-📄 [Download my CV](files/cv.pdf)  
-🔗 [LinkedIn](https://linkedin.com/in/badrudeen-yusuf) | [GitHub](https://github.com/yusbad09)  
+📄 [Download my CV](/files/BADRUDEEN YUSUF AKINKUNMI IDAN ACADEMIC CV.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/badrudeen-yusuf-akinkunmi-6692b819b/) | [GitHub](https://github.com/yusbad09)  
