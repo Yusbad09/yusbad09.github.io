@@ -1,20 +1,16 @@
 ---
-title: "Student Tutor – Cybersecurity & Computing"
+title: "Trainer – Huawei Technologies"
 collection: teaching
-type: "Tutoring"
-permalink: /teaching/2019-afit-student-tutor
-venue: "Air Force Institute of Technology (AFIT), Kaduna"
-date: 2019-09-01
-end_date: 2022-06-30
-location: "Kaduna, Nigeria"
+type: "Training"
+permalink: /teaching/2024-huawei-tutor
+venue: "Huawei Technologies Nigeria"
+date: 2024-01-01
+end_date: 2024-12-31
+location: "Nigeria"
 ---
 
-As a **Student Tutor** at the Air Force Institute of Technology (AFIT), I supported junior students between 2019 and 2022 in multiple areas of cybersecurity and computing, including:
+At **Huawei Technologies**, I delivered training sessions and practical guidance in **SOC operations, cloud security, and cybersecurity best practices**.  
 
-- Artificial Intelligence (AI) and algorithms  
-- Software engineering principles  
-- Cryptography and secure communications  
-- Computer networking  
-
-Beyond technical tutoring, I also **guided peers in research proposals and final year projects** on cybersecurity and applied machine learning.  
-This experience significantly improved students’ academic performance and research output.
+- Designed and facilitated hands-on labs for students and junior colleagues.  
+- Focused on **real-world security challenges** including intrusion detection, incident response, and cloud infrastructure protection.  
+- Helped new engineers transition smoothly into security and IT roles.  
