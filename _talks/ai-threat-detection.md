@@ -13,4 +13,3 @@ Covered:
 - GPS spoofing and sensor-fusion attacks  
 - LSTM autoencoder models for intrusion detection  
 - Future applications of AI in transportation cybersecurity
-
