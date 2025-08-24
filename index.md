@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 author_profile: true
 ---
-avatar           : "images/Profile_Picture.jpg"
+
 # Badrudeen Yusuf Akinkunmi
 
 👋 Welcome to my academic and professional portfolio!  
