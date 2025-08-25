@@ -13,9 +13,7 @@ I am a Cybersecurity Researcher and SOC Analyst with expertise in AI-driven secu
 - My research interests include:
   
    - **Automotive Cybersecurity:** Securing autonomous vehicles, connected cars, and vehicular communication systems (V2X).
-
    - **Artificial Intelligence and Machine Learning for Cybersecurity:** Developing intelligent, adaptive defense mechanisms for IoT ecosystems, smart cities, and large-scale connected devices.
-
    - **Internet Security, Privacy, and Digital Forensics:** Addressing challenges of data protection, digital identity, forensic investigation, and resilience in the modern digital age.
 
 ---
