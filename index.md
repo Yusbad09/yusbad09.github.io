@@ -8,10 +8,14 @@ author_profile: true
 
 👋 Welcome to my academic and professional portfolio!  
 
-I am a **Cybersecurity Researcher** and **SOC Analyst** with expertise in **AI-driven security for autonomous systems, IoT, and cloud computing**. My passion lies in developing AI/ML-based solutions to detect, prevent, and respond to emerging cyber threats in critical infrastructures such as connected vehicles and smart cities.  
+I am a **Cybersecurity Researcher** and **SOC Analyst** with expertise in **AI-driven security for autonomous systems, IoT, and cloud computing**. My passion lies in developing AI/ML-based solutions to detect, prevent, and respond to emerging cyber threats in critical infrastructures such as connected vehicles and smart city Infrastuctures.  
 
 ---
-
+## 🎓 Education
+- **B.Sc. Cyber Security** – Air Force Institute of Technology (AFIT), Kaduna, Nigeria (2018–2022)  
+  - CGPA: 4.84/5.00 (Top 1%, First Class Honors)  
+  - Thesis: *A Machine Learning Approach to Crypto-Ransomware Detection on Windows Devices*
+--- 
 ## 🔹 Research Interests
 - 🚗 Automotive Cybersecurity (AVs, V2X, sensor fusion security)  
 - 🤖 Artificial Intelligence for Cyber Defense (ML anomaly detection, adversarial robustness)  
