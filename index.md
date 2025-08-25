@@ -15,12 +15,14 @@ I am a Cybersecurity Researcher and SOC Analyst with expertise in AI-driven secu
 - **B.Sc. Cyber Security** – Air Force Institute of Technology (AFIT), Kaduna, Nigeria (2018–2022)  
   - CGPA: 4.84/5.00 (Top 1%, First Class Honors)  
   - Thesis: *A Machine Learning Approach to Crypto-Ransomware Detection on Windows Devices*
+    
 --- 
 ## 🔹 Research Interests
 
 - 🚗  Automotive Cybersecurity: Securing autonomous vehicles, connected cars, and vehicular communication systems (V2X). 
 - 🤖 Artificial Intelligence and Machine Learning for Cybersecurity: Developing intelligent, adaptive defense mechanisms for IoT ecosystems, smart cities, and large-scale connected devices. 
 - 🔐 Internet Security, Privacy, and Digital Forensics: Addressing challenges of data protection, digital identity, forensic investigation, and resilience in the modern digital age.
+  
 ---
 
 ## 🔹 Current Work
