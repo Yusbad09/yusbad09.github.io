@@ -8,7 +8,12 @@ author_profile: true
 
 👋 Welcome to my academic and professional portfolio!  
 
-I am a **Cybersecurity Researcher** and **SOC Analyst** with expertise in **AI-driven security for autonomous systems, IoT, and cloud computing**. My passion lies in developing AI/ML-based solutions to detect, prevent, and respond to emerging cyber threats in critical infrastructures such as connected vehicles and smart city Infrastuctures.  
+I am a Cybersecurity Researcher and SOC Analyst with expertise in AI-driven security for autonomous systems, IoT, and cloud computing. My passion lies in developing AI/ML-based solutions to detect, prevent, and respond to emerging cyber threats in critical infrastructures such as connected vehicles and smart city infrastuctures.
+
+ - My research interests include:
+**Automotive Cybersecurity:** Securing autonomous vehicles, connected cars, and vehicular communication systems (V2X).
+**Artificial Intelligence and Machine Learning for Cybersecurity:** Developing intelligent, adaptive defense mechanisms for IoT ecosystems, smart cities, and large-scale connected devices.
+**Internet Security, Privacy, and Digital Forensics:** Addressing challenges of data protection, digital identity, forensic investigation, and resilience in the modern digital age.
 
 ---
 ## 🎓 Education
