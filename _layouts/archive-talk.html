@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  <h1>Talks and Presentations</h1>
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% for post in site.talks reversed %}
+      {% include archive-single-talk.html type="list" %}
+    {% endfor %}
+  </div>
+</div>
