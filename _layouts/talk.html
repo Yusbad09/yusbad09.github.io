@@ -36,22 +36,15 @@ layout: default
               {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
             </h1>
           {% endif %}
-          
-          {% if post.date %}
+
+          {% if page.date %}
             <p class="page__date">
-              <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-                {% if post.collection == "talks" %}
-                  Presented:
-                {% else %}
-                  Published:
-                {% endif %}
-              </strong>
-              <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: "%B %d, %Y" }}
+              <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Presented:</strong>
+              <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date: "%B %d, %Y" }}
               </time>
             </p>
           {% endif %}
-
 
           {% if page.talk_type %}
             <p>{{ page.talk_type }} at {{ page.venue }}, {{ page.location }}</p>
