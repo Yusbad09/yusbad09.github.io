@@ -3,7 +3,7 @@ title: "Protecting Data Centers in the Cloud Era"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/data-center-security
-venue: "National Cybersecurity Conference"
+venue: "Galaxy Backbone Limited"
 date: 2023-08-02
 location: "Abuja, Nigeria"
 ---
