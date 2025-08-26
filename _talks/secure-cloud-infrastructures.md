@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/secure-cloud-infrastructures
 venue: "Huawei Technologies Nigeria"
-date: 2024-07-15
+date: 2024-12-15
 location: "Lagos, Nigeria"
 ---
 
