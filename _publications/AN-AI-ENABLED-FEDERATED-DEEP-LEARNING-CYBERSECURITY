@@ -1,0 +1,27 @@
+---
+title: "AN AI-ENABLED FEDERATED DEEP LEARNING CYBERSECURITY FRAMEWORK FOR DECENTRALIZED IOT ECOSYSTEMS: A PRIVACY-PRESERVING APPROACH TO REAL-TIME THREAT DETECTION AND ADAPTIVE DEFENCE"
+collection: publications
+permalink: /publication/AN-AI-ENABLED-FEDERATED-DEEP-LEARNING-CYBERSECURITY
+excerpt: ""
+date: 2025-09-25
+venue: "Publised on 2025-09-25"
+paperurl: ""
+citation: "MICHAEL OGHALE IGHOFIOMONI; ARAOYE ADEDAMOLA EMMANUEL; MUSA ABDULGANIYU BABATUNDE; OLAYINKA ADEOLU, DAVID; **YUSUF AKINKUNMI, BADRUDEEN**; ESO OGOCHUKWU VERONICA; & CONFIDENCE ADIMCHI 
+CHINONYEREM,'Published, 2025."
+---
+This study presents a federated deep learning cybersecurity framework for decentralized IoT systems, integrating CNN and LSTM models with differential privacy and homomorphic encryption to ensure secure, real-time threat detection. The system achieved 96.2% accuracy and low latency (31.6 ms), while significantly reducing privacy leakage to 7.4% under membership inference attacks. Its adaptive defense mechanism improved detection of zero-day attacks from 85.1% to 91.8% after five update cycles, demonstrating strong resilience and privacy-preserving capabilities.
+Abstract
+
+cyber security system to identify and respond to cyber attacks in distributed IoT 
+settings without compromising data privacy. The suggested model combines 
+Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) 
+networks in a federated learning framework, aided by differential privacy and 
+homomorphic encryption for secure online model training on the edge devices. The 
+system was tested and evaluated with a live network trace-based IoT testbed as well 
+as publicly available datasets (TON_IoT and IoT-23). Experimental results show the 
+model detected 96.2% accuracy, 31.6 milliseconds average latency, and privacy leakage 
+was minimized to 7.4% under membership inference attacks. The adaptive defence 
+mechanism allowed the model to effectively counter novel, zero-day attacks with its 
+detection capability improved from 85.1% to 91.8% upon five rounds of updating. These 
+results prove the feasibility and effectiveness of federated AI architectures for real
+time, privacy-enhancing cybersecurity in decentralized IoT systems. 
